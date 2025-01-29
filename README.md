@@ -13,7 +13,6 @@ The Multi-Agent Cyber Defense System is designed to simulate a network environme
 5. [Usage Instructions](#usage-instructions)
 6. [Future Enhancements](#future-enhancements)
 7. [Contributing](#contributing)
-8. [License](#license)
 
 ## System Architecture
 
